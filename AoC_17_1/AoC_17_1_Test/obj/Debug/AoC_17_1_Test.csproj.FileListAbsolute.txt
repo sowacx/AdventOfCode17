@@ -1,0 +1,16 @@
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\AoC_17_1_Test.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\AoC_17_1_Test.pdb
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\AoC_17_1.exe
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\AoC_17_1.pdb
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\AoC_17_1.exe.config
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\obj\Debug\AoC_17_1_Test.csprojResolveAssemblyReference.cache
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\obj\Debug\AoC_17_1_Test.csproj.CoreCompileInputs.cache
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\obj\Debug\AoC_17_1_Test.dll
+C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1_Test\obj\Debug\AoC_17_1_Test.pdb
