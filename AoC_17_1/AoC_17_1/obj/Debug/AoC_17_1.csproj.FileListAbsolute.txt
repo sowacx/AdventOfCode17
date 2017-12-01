@@ -1,7 +1,0 @@
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\bin\Debug\AoC_17_1.exe.config
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\bin\Debug\AoC_17_1.exe
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\bin\Debug\AoC_17_1.pdb
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\obj\Debug\AoC_17_1.csprojResolveAssemblyReference.cache
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\obj\Debug\AoC_17_1.csproj.CoreCompileInputs.cache
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\obj\Debug\AoC_17_1.exe
-C:\Users\ep14074\Documents\Visual Studio 2017\Projects\AoC_17_1\AoC_17_1\obj\Debug\AoC_17_1.pdb
